@@ -1,0 +1,11 @@
+.app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
